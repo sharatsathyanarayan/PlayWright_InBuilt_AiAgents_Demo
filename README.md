@@ -606,8 +606,3 @@ Demoblaze is a demo e-commerce store showcasing electronics (phones, laptops, mo
  * ✓ Comment documentation
  * 
  */
-
-module.exports = {
-  description: 'Demoblaze E-Commerce Website Test Suite using Page Object Model'
-};
-
